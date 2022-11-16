@@ -10,7 +10,7 @@ export default function Home() {
     <div>
       <Head>
         <title>Faniloniaina RAMILISON</title>
-        <meta name="description" content="I’m a back-end web developer specializing in building (and occasionally designing) exceptional digital experiences." />  
+        <meta name="description" content="I’m a Junior web developer specializing in building (and occasionally designing) exceptional digital experiences." />  
       </Head>
     <Main />
     <About />

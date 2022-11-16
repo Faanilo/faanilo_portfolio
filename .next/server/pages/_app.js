@@ -181,15 +181,6 @@ const Navbar = ()=>{
                                             })
                                         }),
                                         /*#__PURE__*/ jsx_runtime_.jsx((link_default()), {
-                                            href: "/#projects",
-                                            children: /*#__PURE__*/ jsx_runtime_.jsx("li", {
-                                                onClick: ()=>setNav(false)
-                                                ,
-                                                className: "py-4 text-sm",
-                                                children: "Projects"
-                                            })
-                                        }),
-                                        /*#__PURE__*/ jsx_runtime_.jsx((link_default()), {
                                             href: "/resume",
                                             children: /*#__PURE__*/ jsx_runtime_.jsx("li", {
                                                 onClick: ()=>setNav(false)
@@ -220,7 +211,7 @@ const Navbar = ()=>{
                                             className: "flex items-center justify-between my-4 w-full sm:w-[80%]",
                                             children: [
                                                 /*#__PURE__*/ jsx_runtime_.jsx("a", {
-                                                    href: "https://www.linkedin.com/in/clint-briley-50056920a/",
+                                                    href: "https://www.linkedin.com/in/faanilo-niaina-156014240/",
                                                     target: "_blank",
                                                     rel: "noreferrer",
                                                     children: /*#__PURE__*/ jsx_runtime_.jsx("div", {
@@ -229,7 +220,7 @@ const Navbar = ()=>{
                                                     })
                                                 }),
                                                 /*#__PURE__*/ jsx_runtime_.jsx("a", {
-                                                    href: "https://github.com/fireclint",
+                                                    href: "https://github.com/Faanilo",
                                                     target: "_blank",
                                                     rel: "noreferrer",
                                                     children: /*#__PURE__*/ jsx_runtime_.jsx("div", {

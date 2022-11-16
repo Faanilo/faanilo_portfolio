@@ -62,7 +62,7 @@ const resume = () => {
             <span className="px-2">|</span>Next JS
             <span className="px-2">|</span>SQL
             <span className="px-2">|</span>Tailwind
-            <span className="px-2">|</span>NodeJS
+            <span className="px-2">|</span>Node JS
             <span className="px-2">|</span>RESTAPI
           </p>
         </div>
