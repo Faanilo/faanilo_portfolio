@@ -54,16 +54,15 @@ const resume = () => {
           <h5 className="text-center underline text-[18px] py-2">Skills</h5>
           <p className="py-2">
             <span className="font-bold">Technical Skills</span>
-            <span className="px-2">|</span>Back-End Web Developer
-            <span className="px-2">|</span> HTML
+            <span className="px-2">|</span>Web Developer
+            <span className="px-2">|</span>HTML
             <span className="px-2">|</span>CSS
             <span className="px-2">|</span>Javascript
             <span className="px-2">|</span>React
-            <span className="px-2">|</span>Next JS
             <span className="px-2">|</span>SQL
             <span className="px-2">|</span>Tailwind
-            <span className="px-2">|</span>Node JS
-            <span className="px-2">|</span>RESTAPI
+            <span className="px-2">|</span>Python
+            <span className="px-2">|</span>FastApi
           </p>
         </div>
       </div>
