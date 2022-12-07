@@ -13,13 +13,14 @@ const About = () => {
           </p>
           <h2 className="py-4">Who I Am</h2>
           <p className="py-2 text-gray-600">
-            Passionate about IT, I am a student at ESTI. I want to learn and
-            gain experience
+            Passionate about IT, I am currently a second year student in
+            Integration and development at ESTI. I want to learn and gain
+            experience
           </p>
-          
+
           <Link href="https://github.com/Faanilo">
             <p className="py-2 text-gray-600 underline cursor-pointer">
-              Check out some of my latest projects.
+              Check out some of my  projects.
             </p>
           </Link>
         </div>

@@ -3,7 +3,7 @@ import React from 'react';
 import Javascript from '../public/assets/skills/javascript.png';
 import ReactImg from '../public/assets/skills/react.png';
 import Python from '../public/assets/skills/python.png'
-import FastApi from '../public/assets/skills/fastapi.png'
+import FastApi from '../public/assets/skills/fastapi.svg'
 const Skills = () => {
   return (
     <div id='skills' className='w-full lg:h-screen p-2'>
